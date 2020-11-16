@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "Iran" 
-title                    : "farnaz khoshdoost"
+title                    : "farnaz"
 title_separator          : "-"
-name                     : "Farnaz" 
+name                     : "Farnaz khoshdoost" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Farnaz khoshdoost"
+  name             : "Farnaz"
   avatar           : "/assets/images/frnz.jpg"
-  bio              : I'm an student of Computer engineering at IUST. I enjoy learning new things .
+  bio              : I'm a student of Computer engineering at IUST. I enjoy learning new things .
   location         : "تهران"
   email            : frnz.azad2002@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  twitter: 
+  linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
+  github: farnaz
   instagram: _._farnawzx_._
   links:
     - label: "Email"
