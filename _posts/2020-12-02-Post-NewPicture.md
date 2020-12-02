@@ -5,6 +5,7 @@ title: barname rizi
 
 ## onvan dovom
 1.choosing a destination
+
 2.evaluating alternative routes
 3.deciding the specific course of the plan
 
