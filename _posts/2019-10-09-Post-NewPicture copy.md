@@ -1,23 +1,16 @@
 ---
 layout: posts
-title: My new picture
+title: My classmate
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## These are my classamte
+
 
 [my favorite website](http://www.google.com)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+آرزوی موفقیت و سلامتی برای تک تک لحظات زندگی شان... باشد که موفقیت هایمان را جشن بگیریم.
 
-
-
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/classmates.jpg "new classmate Picture")
 
 ---
 **Test**: This is atest
