@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: barname rizi
+title: planning
 ---
 
 ## planning
