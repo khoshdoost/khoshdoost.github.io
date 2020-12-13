@@ -8,9 +8,9 @@ title: interview
  is typing...
 
 
- ## please typing
+ ## please waiting...
 
-![alt text](../assets/images/planning.jpg "plan Picture")
+
 
 ---
-**Test**: These are some suggestions
+
