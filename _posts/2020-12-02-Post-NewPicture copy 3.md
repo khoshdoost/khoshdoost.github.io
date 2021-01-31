@@ -10,7 +10,7 @@ title: My Hackathon Project
 
 
 
-![the picture](../assets/images/hachetan.jpg "my project")
+![the picture](../assets/images/hachetan.jpg)
 [link site](http://farnaz99521253.pythonanywhere.com/)
 
 ---
