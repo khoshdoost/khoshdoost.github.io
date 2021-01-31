@@ -10,8 +10,8 @@ title: My Hackathon Project
 
 
 
-![alt text](../assets/images/planning.jpg "plan Picture")
-[hiking](http://farnaz99521253.pythonanywhere.com/)
+![alt text](../assets/images/hachetan.jpg "my project")
+[link site](http://farnaz99521253.pythonanywhere.com/)
 
 ---
 **Test**: These are some suggestions
