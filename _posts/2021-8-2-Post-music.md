@@ -11,6 +11,6 @@ title: My Music
 
 
 ![iamge](../assets/images/music.jpg "my music")
-![لینک آهنگ](https://www.4shared.com/music/dItsZ-giea/ahang.html)
+[لینک آهنگ](https://soundcloud.com/user-615412812/ahang)
 ---
 
